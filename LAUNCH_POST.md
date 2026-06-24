@@ -7,7 +7,7 @@ I built Solana Transaction Support Skill for the Solana AI Kit skill bounty.
 It helps AI agents turn failed transaction signatures, `getTransaction` JSON, simulation logs, and wallet complaints into evidence-backed customer replies, engineering tickets, replay plans, and monitoring.
 
 Repo: https://github.com/Kohap/solana-transaction-support-skill
-PR: https://github.com/solanabr/skill-bounty/pull/<PR_NUMBER>
+PR: https://github.com/solanabr/skill-bounty/pull/35
 
 ## Thread Draft
 
@@ -46,4 +46,4 @@ Solana transaction support is cross-domain. A failed user action might be slippa
 6/ Built to complement the Solana AI Kit by handling the production support workflow after apps go live.
 
 Repo: https://github.com/Kohap/solana-transaction-support-skill
-Bounty PR: https://github.com/solanabr/skill-bounty/pull/<PR_NUMBER>
+Bounty PR: https://github.com/solanabr/skill-bounty/pull/35

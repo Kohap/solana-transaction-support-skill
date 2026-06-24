@@ -1,6 +1,6 @@
 # Bounty Form Answers
 
-Use this after opening the bounty PR. Update the PR URL once GitHub assigns the number.
+Use these answers for the bounty submission form.
 
 ## Link To Your Submission
 
@@ -13,7 +13,7 @@ https://github.com/Kohap/solana-transaction-support-skill
 Bounty PR:
 
 ```text
-https://github.com/solanabr/skill-bounty/pull/<PR_NUMBER>
+https://github.com/solanabr/skill-bounty/pull/35
 ```
 
 ## Tweet Link

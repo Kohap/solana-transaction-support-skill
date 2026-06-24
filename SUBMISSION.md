@@ -64,4 +64,4 @@ install.sh syntax valid
 Replace these after publishing:
 
 - Standalone repo: `https://github.com/Kohap/solana-transaction-support-skill`
-- Bounty PR: `https://github.com/solanabr/skill-bounty/pull/<PR_NUMBER>`
+- Bounty PR: `https://github.com/solanabr/skill-bounty/pull/35`
