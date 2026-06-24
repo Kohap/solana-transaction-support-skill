@@ -1,0 +1,15 @@
+{
+  "name": "solana-transaction-support-skill",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Solana AI skill for transaction diagnosis, replay planning, and support workflows.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "lint:shell": "bash -n install.sh"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

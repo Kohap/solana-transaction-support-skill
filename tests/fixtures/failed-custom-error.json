@@ -1,0 +1,52 @@
+{
+  "slot": 423118809,
+  "blockTime": 1763747336,
+  "version": 0,
+  "transaction": {
+    "signatures": [
+      "5h6SampleFailedTx111111111111111111111111111111111111111111111"
+    ],
+    "message": {
+      "accountKeys": [
+        "User111111111111111111111111111111111111111",
+        "ComputeBudget111111111111111111111111111111",
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "SwapProgram111111111111111111111111111111111"
+      ],
+      "recentBlockhash": "RecentBlockhash111111111111111111111111111111"
+    }
+  },
+  "meta": {
+    "err": {
+      "InstructionError": [
+        2,
+        {
+          "Custom": 6001
+        }
+      ]
+    },
+    "fee": 5000,
+    "computeUnitsConsumed": 190482,
+    "preBalances": [
+      1000000000,
+      1,
+      1,
+      1141440
+    ],
+    "postBalances": [
+      999995000,
+      1,
+      1,
+      1141440
+    ],
+    "logMessages": [
+      "Program ComputeBudget111111111111111111111111111111 invoke [1]",
+      "Program ComputeBudget111111111111111111111111111111 success",
+      "Program SwapProgram111111111111111111111111111111111 invoke [1]",
+      "Program log: Instruction: Swap",
+      "Program log: AnchorError occurred. Error Code: SlippageExceeded. Error Number: 6001. Error Message: Slippage tolerance exceeded.",
+      "Program SwapProgram111111111111111111111111111111111 consumed 190482 of 200000 compute units",
+      "Program SwapProgram111111111111111111111111111111111 failed: custom program error: 0x1771"
+    ]
+  }
+}

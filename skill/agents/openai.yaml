@@ -1,0 +1,7 @@
+interface:
+  display_name: "Solana Transaction Support"
+  short_description: "Diagnose failed Solana transactions"
+  default_prompt: "Use $solana-transaction-support to diagnose a failed Solana transaction and produce a support reply plus replay plan."
+
+policy:
+  allow_implicit_invocation: true
