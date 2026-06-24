@@ -1,13 +1,13 @@
 # Bounty Form Answers
 
-Use this after publishing the standalone GitHub repository. Replace `YOUR_GITHUB_USERNAME` with your GitHub username and update the PR URL after opening the bounty PR.
+Use this after opening the bounty PR. Update the PR URL once GitHub assigns the number.
 
 ## Link To Your Submission
 
 Standalone repo:
 
 ```text
-https://github.com/YOUR_GITHUB_USERNAME/solana-transaction-support-skill
+https://github.com/Kohap/solana-transaction-support-skill
 ```
 
 Bounty PR:

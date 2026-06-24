@@ -21,10 +21,10 @@ This maps the Solana AI Kit skill bounty criteria to concrete files in this repo
 ```markdown
 Adds Solana Transaction Support Skill, a novel production-support and transaction-replay skill for Solana builders.
 
-Standalone repo: https://github.com/YOUR_GITHUB_USERNAME/solana-transaction-support-skill
-Submission packet: https://github.com/YOUR_GITHUB_USERNAME/solana-transaction-support-skill/blob/main/FORM_ANSWERS.md
-Rubric checklist: https://github.com/YOUR_GITHUB_USERNAME/solana-transaction-support-skill/blob/main/RUBRIC_CHECKLIST.md
-Demo: https://github.com/YOUR_GITHUB_USERNAME/solana-transaction-support-skill/blob/main/DEMO.md
+Standalone repo: https://github.com/Kohap/solana-transaction-support-skill
+Submission packet: https://github.com/Kohap/solana-transaction-support-skill/blob/main/FORM_ANSWERS.md
+Rubric checklist: https://github.com/Kohap/solana-transaction-support-skill/blob/main/RUBRIC_CHECKLIST.md
+Demo: https://github.com/Kohap/solana-transaction-support-skill/blob/main/DEMO.md
 
 What it solves:
 - Helps teams diagnose failed or confusing Solana transactions from signatures, getTransaction JSON, simulation logs, and support tickets.
